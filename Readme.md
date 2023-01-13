@@ -30,6 +30,7 @@
 29. [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Solution](https://leetcode.com/problems/shortest-path-in-binary-matrix/solutions/3036864/c-solution/)
 30. [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/) | [Solution](https://leetcode.com/problems/path-with-minimum-effort/solutions/3041040/c-solution/)
 31. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [Solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/3045737/c-solution/)
+32. [Minimum Multiplications to reach End](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | [Solution](#)
 
 ## LATER
 1. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
