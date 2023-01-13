@@ -29,6 +29,7 @@
 28. [Shortest Distance in a Binary Maze](https://practice.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1) | [Solution](#)
 29. [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [Solution](https://leetcode.com/problems/shortest-path-in-binary-matrix/solutions/3036864/c-solution/)
 30. [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/) | [Solution](https://leetcode.com/problems/path-with-minimum-effort/solutions/3041040/c-solution/)
+31. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [Solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/3045737/c-solution/)
 
 ## LATER
 1. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
@@ -50,3 +51,4 @@
 17. [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
 18. [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 19. [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)
+20. [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)
