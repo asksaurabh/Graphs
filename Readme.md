@@ -31,6 +31,7 @@
 30. [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/) | [Solution](https://leetcode.com/problems/path-with-minimum-effort/solutions/3041040/c-solution/)
 31. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [Solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/3045737/c-solution/)
 32. [Minimum Multiplications to reach End](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | [Solution](#)
+33. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | [Solution](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/solutions/3047230/c-solution/)
 
 ## LATER
 1. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
@@ -53,3 +54,6 @@
 18. [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 19. [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)
 20. [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)
+21. [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/)
+22. [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+23. [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
