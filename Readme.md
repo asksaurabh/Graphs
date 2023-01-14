@@ -32,6 +32,7 @@
 31. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [Solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solutions/3045737/c-solution/)
 32. [Minimum Multiplications to reach End](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | [Solution](#)
 33. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | [Solution](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/solutions/3047230/c-solution/)
+34. [Bellman Ford Algorithm](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [Solution](#)
 
 ## LATER
 1. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
