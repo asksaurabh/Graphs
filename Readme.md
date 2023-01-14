@@ -33,6 +33,7 @@
 32. [Minimum Multiplications to reach End](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | [Solution](#)
 33. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | [Solution](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/solutions/3047230/c-solution/)
 34. [Bellman Ford Algorithm](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [Solution](#)
+35. [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Solution](#) | [Classic Implementation here](https://github.com/asksaurabh/Algorithms/blob/main/7.graphsTUF/18_floyd_warshall.cpp)
 
 ## LATER
 1. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
