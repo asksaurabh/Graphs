@@ -34,6 +34,7 @@
 33. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | [Solution](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/solutions/3047230/c-solution/)
 34. [Bellman Ford Algorithm](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [Solution](#)
 35. [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Solution](#) | [Classic Implementation here](https://github.com/asksaurabh/Algorithms/blob/main/7.graphsTUF/18_floyd_warshall.cpp)
+36. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | [Solution](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/3053578/c-solution/)
 
 ## LATER
 1. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
@@ -59,3 +60,4 @@
 21. [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/)
 22. [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
 23. [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
+24. [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
